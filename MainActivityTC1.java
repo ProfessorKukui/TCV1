@@ -14,6 +14,8 @@ public class MainActivityTC1 extends AppCompatActivity {
     }
 
 
+
+
     public void CalcularNota(View view) {
 
         Float n1=Float.parseFloat(((EditText)findViewById(R.id.Nota1)).getText().toString());
